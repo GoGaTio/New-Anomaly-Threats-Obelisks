@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NewAnomalyThreatsObelisks\Source\NewAnomalyThreatsObelisks\obj\Debug\NewAnomalyThreatsObelisks.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NewAnomalyThreatsObelisks\Source\NewAnomalyThreatsObelisks\obj\Debug\NewAnomalyThreatsObelisks.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NewAnomalyThreatsObelisks\1.6\Assemblies\NewAnomalyThreatsObelisks.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\NewAnomalyThreatsObelisks\Source\NewAnomalyThreatsObelisks\obj\Debug\NewAnomalyThreatsObelisks.dll

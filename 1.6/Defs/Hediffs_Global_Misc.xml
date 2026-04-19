@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+  <HediffDef>
+    <defName>NAT_Calamity</defName>
+    <description>This person is subdued by distant archotech structure.</description>
+    <label>calimity</label>
+    <hediffClass>NAT.Hediff_Calamity</hediffClass>
+    <stages>
+      <li>
+      </li>
+    </stages>
+    <comps>
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>7500~12500</disappearsAfterTicks>
+      </li>
+    </comps>
+  </HediffDef>
+
+</Defs>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <EntityCodexEntryDef>
+    <defName>NAT_CranniedObelisk</defName>
+    <label>crannied obelisk</label>
+    <useDescriptionFrom>NAT_WarpedObelisk_Inducer</useDescriptionFrom>
+    <uiIconPath>UI/CodexEntries/NAT_Obelisk_Crannied</uiIconPath>
+    <category>Advanced</category>
+    <linkedThings>
+      <li>NAT_WarpedObelisk_Inducer</li>
+    </linkedThings>
+    <provocationIncidents>
+      <li>NAT_WarpedObelisk_Inducer</li>
+    </provocationIncidents>
+    <orderInCategory>1301</orderInCategory>
+    <modExtensions>
+      <li Class="NAT.CodexEntryExtension"/>
+    </modExtensions>
+  </EntityCodexEntryDef>
+
+</Defs>

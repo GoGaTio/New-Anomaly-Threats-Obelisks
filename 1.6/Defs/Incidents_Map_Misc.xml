@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef ParentName="ObeliskBase">
+    <defName>NAT_WarpedObelisk_Inducer</defName>
+    <label>crannied obelisk</label>
+    <letterLabel>Crannied obelisk</letterLabel>
+    <workerClass>NAT.IncidentWorker_ObeliskFromExtension</workerClass>
+    <modExtensions>
+      <li Class="NAT.IncidentExtension">
+        <thingDef>NAT_WarpedObelisk_Inducer</thingDef>
+      </li>
+    </modExtensions>
+  </IncidentDef>
+
+  <IncidentDef ParentName="ObeliskBase">
+    <defName>NAT_WarpedObelisk_Calamitor</defName>
+    <label>skewed obelisk</label>
+    <letterLabel>Skewed obelisk</letterLabel>
+    <workerClass>NAT.IncidentWorker_ObeliskFromExtension</workerClass>
+    <modExtensions>
+      <li Class="NAT.IncidentExtension">
+        <thingDef>NAT_WarpedObelisk_Calamitor</thingDef>
+      </li>
+    </modExtensions>
+  </IncidentDef>
+
+</Defs>
