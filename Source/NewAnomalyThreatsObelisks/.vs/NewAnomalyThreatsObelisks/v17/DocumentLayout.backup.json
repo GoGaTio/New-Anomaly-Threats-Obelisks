@@ -3,22 +3,16 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\thingcomps\\compobelisk_calamitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|solutionrelative:thingcomps\\compobelisk_calamitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\1.6\\Defs\\ThingDefs_Buildings\\Buildings_Obelisks.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NewAnomalyThreatsObelisks||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\newanomalythreatsobelisks\\source\\newanomalythreatsobelisks\\defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|solutionrelative:defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\newanomalythreatsobelisks\\source\\newanomalythreatsobelisks\\thingcomps\\compobelisk_inducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\thingcomps\\compobelisk_inducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|solutionrelative:thingcomps\\compobelisk_inducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\thingcomps\\compobelisk_calamitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|solutionrelative:thingcomps\\compobelisk_calamitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\hediff_calamity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +21,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\1.6\\Defs\\ThingDefs_Buildings\\Buildings_Obelisks.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NewAnomalyThreatsObelisks||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\harmony\\miscpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,9 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\harmony\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|solutionrelative:harmony\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E3A2D26-E3B2-40BB-9D69-F63A400484F7}|NewAnomalyThreatsObelisks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\newanomalythreatsobelisks\\source\\newanomalythreatsobelisks\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DefOf.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\DefOf.cs",
               "RelativeDocumentMoniker": "DefOf.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\DefOf.cs",
               "RelativeToolTip": "DefOf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-08T16:57:47.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Buildings_Obelisks.xml",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\1.6\\Defs\\ThingDefs_Buildings\\Buildings_Obelisks.xml",
               "RelativeDocumentMoniker": "..\\..\\1.6\\Defs\\ThingDefs_Buildings\\Buildings_Obelisks.xml",
@@ -82,8 +79,7 @@
               "RelativeToolTip": "..\\..\\1.6\\Defs\\ThingDefs_Buildings\\Buildings_Obelisks.xml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-02-04T10:38:34.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T10:38:34.883Z"
             },
             {
               "$type": "Document",
@@ -99,15 +95,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "NewAnomalyThreatsObelisks",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\NewAnomalyThreatsObelisks.csproj",
               "RelativeDocumentMoniker": "NewAnomalyThreatsObelisks.csproj",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\NewAnomalyThreatsObelisks.csproj",
               "RelativeToolTip": "NewAnomalyThreatsObelisks.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-04T08:30:28.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T08:30:28.017Z"
             },
             {
               "$type": "Document",
@@ -123,15 +118,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Hediff_Calamity.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\Hediff_Calamity.cs",
               "RelativeDocumentMoniker": "Hediff_Calamity.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\Hediff_Calamity.cs",
               "RelativeToolTip": "Hediff_Calamity.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T08:26:53.472Z"
+              "WhenOpened": "2026-02-04T08:26:53.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,41 +155,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CompObelisk_Calamitor.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\ThingComps\\CompObelisk_Calamitor.cs",
               "RelativeDocumentMoniker": "ThingComps\\CompObelisk_Calamitor.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\ThingComps\\CompObelisk_Calamitor.cs",
               "RelativeToolTip": "ThingComps\\CompObelisk_Calamitor.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAWwDMAAACvAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAjwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T08:19:39.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CompObelisk_Inducer.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\ThingComps\\CompObelisk_Inducer.cs",
               "RelativeDocumentMoniker": "ThingComps\\CompObelisk_Inducer.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\ThingComps\\CompObelisk_Inducer.cs",
               "RelativeToolTip": "ThingComps\\CompObelisk_Inducer.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAALEAAAAAAAAAAAArwMIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T08:18:25.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\Utility.cs",
               "RelativeDocumentMoniker": "Utility.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\NewAnomalyThreatsObelisks\\Source\\NewAnomalyThreatsObelisks\\Utility.cs",
               "RelativeToolTip": "Utility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T08:14:46.797Z"
+              "WhenOpened": "2026-02-04T08:14:46.797Z",
+              "EditorCaption": ""
             }
           ]
         }

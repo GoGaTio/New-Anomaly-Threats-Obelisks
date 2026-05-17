@@ -57,5 +57,7 @@ namespace NAT
 				CalamityUtility.activeHediffs.Add(this);
 			}
 		}
+
+
     }
 }

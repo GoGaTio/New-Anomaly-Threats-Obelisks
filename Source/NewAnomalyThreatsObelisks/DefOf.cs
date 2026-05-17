@@ -11,6 +11,6 @@ namespace NAT
 	[DefOf]
 	public static class NATODefOf
 	{
-		
+		public static HediffDef NAT_Calamity;
 	}
 }
